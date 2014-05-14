@@ -1,0 +1,10 @@
+name: CKEditor Greetings Card
+type: module
+description: >
+  A plugin that brings up a holiday greetings card.
+  The plugin can be customized with a different image, border, and text.
+core: 8.x
+package: CKEditor
+version: VERSION
+dependencies:
+  - ckeditor
