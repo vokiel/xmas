@@ -1,0 +1,13 @@
+{
+    "name": "vokiel/xmas",
+    "type": "drupal-module",
+    "description": "CKEditor Xmas plugin for Drupal 8",
+    "license": "GPL-2",
+    "authors": [
+        {
+            "name": "Robert Mikołajuk",
+            "homepage": "https://github.com/vokiel",
+            "role": "Developer"
+        }
+    ]
+}
